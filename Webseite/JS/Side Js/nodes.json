@@ -1,0 +1,31 @@
+[
+		{"id": 1, "label": "Grundlagen", "group": "main1", "title":"Netzwerk-Grundlagen", "link":"beispiel.html", "info":"Mehr erfahren:"},
+		{"id": 2, "label": "Hardware", "group": "main2", "title":"Netzwerk-Hardware", "link":"beispiel.html", "info":"Mehr erfahren:"},
+		{"id": 3, "label": "Methoden", "group": "main3", "title":"Netzwerk-Methoden", "link":"beispiel.html", "info":"Mehr erfahren:"},
+		{"id": 4, "label": "Sicherheit", "group": "main4", "title":"Netzwerk-Sicherheit", "link":"beispiel.html", "info":"Mehr erfahren:"},
+		{"id": 5, "label": "Managment", "group": "main5", "title":"Netzwerk-Managment", "link":"beispiel.html", "info":"Mehr erfahren:"},
+		{"id": 6, "label": "Definition", "group": "sub1", "title":"Definition: Netzwerk", "link":"beispiel.html", "info":"Mehr erfahren:"},
+		{"id": 7, "label": "Topologien", "group": "sub1", "title":"Netzwerk-Topologien", "link":"beispiel.html", "info":"Mehr erfahren:"},
+		{"id": 8, "label": "Protokolle", "group": "sub1", "title":"Netzwerk-Protokolle", "link":"beispiel.html", "info":"Mehr erfahren:"},
+		{"id": 9, "label": "Modelle", "group": "sub1", "title":"Netzwerk-Modelle", "link":"beispiel.html", "info":"Mehr erfahren:"},
+		{"id": 10, "label": "Router", "group": "sub2", "title":"Router", "link":"beispiel.html", "info":"Mehr erfahren:"},
+		{"id": 11, "label": "Switch", "group": "sub2", "title":"Switch", "link":"beispiel.html", "info":"Mehr erfahren:"},
+		{"id": 12, "label": "Hub", "group": "sub2", "title":"Hub", "link":"beispiel.html", "info":"Mehr erfahren:"},
+		{"id": 13, "label": "Firewalls", "group": "sub2", "title":"Firewalls", "link":"beispiel.html", "info":"Mehr erfahren:"},
+		{"id": 14, "label": "Ethernet", "group": "sub3", "title":"Ethernet", "link":"beispiel.html", "info":"Mehr erfahren:"},
+		{"id": 15, "label": "WLAN", "group": "sub3", "title":"WLAN", "link":"beispiel.html", "info":"Mehr erfahren:"},
+		{"id": 16, "label": "Bluetooth", "group": "sub3", "title":"Bluetooth", "link":"beispiel.html", "info":"Mehr erfahren:"},
+		{"id": 17, "label": "DSL", "group": "sub4", "title":"DSL", "link":"beispiel.html", "info":"Mehr erfahren:"},
+		{"id": 18, "label": "VPN", "group": "sub4", "title":"VPN", "link":"beispiel.html", "info":"Mehr erfahren:"},
+		{"id": 19, "label": "Firewall", "group": "sub4", "title":"Firewall", "link":"beispiel.html", "info":"Mehr erfahren:"},
+		{"id": 20, "label": "IDS", "group": "sub4", "title":"IDS", "link":"beispiel.html", "info":"Mehr erfahren:"},
+		{"id": 21, "label": "IPS", "group": "sub4", "title":"IPS", "link":"beispiel.html", "info":"Mehr erfahren:"},
+		{"id": 22, "label": "Monotring", "group": "sub5", "title":"Monotring", "link":"beispiel.html", "info":"Mehr erfahren:"},
+		{"id": 23, "label": "Remote-Access", "group": "sub5", "title":"Remote-Access", "link":"beispiel.html", "info":"Mehr erfahren:"},
+		{"id": 24, "label": "Netzwerk-Design", "group": "sub5", "title":"Netzwerk-Design", "link":"beispiel.html", "info":"Mehr erfahren:"},
+		{"id": 25, "label": "IP-Adressierung", "group": "sub5", "title":"IP-Adressierung", "link":"beispiel.html", "info":"Mehr erfahren:"},
+		{"id": 26, "label": "Netzwerke...", "group": "Hub", "title":"Alles was du über Netzwerke wissen musst", "link":"beispiel.html", "info":"Mehr erfahren:"}
+]	
+
+
+

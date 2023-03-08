@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <link rel="icon" type="image/x-icon" href="https://www.hsw-it-cs.de/images/icons/icon-wlan.svg">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Netzwerktechnik, Main</title>
+        <script type="text/javascript" src="https://unpkg.com/vis-network/standalone/umd/vis-network.min.js"></script>
+        <link rel="stylesheet" href="../CSS/Main Css/style.css">
+        <link rel="stylesheet" href="../CSS/Main Css/header.css">
+    </head>
+    <body>
+        <div class="shadow-title parallax-top-shadow">netz</div>
+    <header>
+        <h1 data-value="NETZWERKTECHNIK">NETZWERKTECHNIK</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html#">Home</a></li>
+                <li class="dropdown"><a href="#">Netzwerktechnik</a>
+                    <ul data-timeout="5000">
+                        <li><a href="grundlagen.html">Grundlagen</a></li>
+                        <li><a href="hardware.html">Hardware</a></li>
+                        <li><a href="methoden.html">Verbindungs Methoden</a></li>
+                        <li><a href="sicherheit.html">Netzwerksicherheit</a></li>
+                        <li><a href="netzwerk.html">Netzwerkmanagment</a></li>
+                        <hr id="droppi">
+                    </ul>
+                </li>
+                <li><a href="galerie.html">Galerie</a></li>
+                <li><a href="wortnachschlag.html">wortnachschlag</a></li>
+            </ul>
+        </nav>
+        <hr id="not-droppi">
+    </header>
+
+        <div id="network"></div>
+        <script type="text/javascript" src="../JS/Side Js/NetworkGraph.js"></script>
+        <script type="text/javascript" src="../JS/Main Js/script.js"></script>
+        <script src='https://cdnjs.cloudflare.com/ajax/libs/gsap/3.2.6/gsap.min.js'></script>
+
+    </body>
+</html>
