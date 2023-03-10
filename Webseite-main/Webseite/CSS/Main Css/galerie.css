@@ -1,0 +1,72 @@
+main {
+    cursor: none;
+    position: absolute;
+    left: 50%;
+    margin: 90px 0;
+    transform: translate(-50%, 0);
+    width: 80vw;
+}
+.Gruppe {
+    margin: 70px auto 0;
+}
+
+.Gruppe hr{
+
+}
+
+.galerie {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); 
+    grid-auto-rows: 200px;
+    gap: 20px;
+    justify-items: space-around;
+    margin: auto 0;
+    }
+
+.item {
+  position: relative;
+  overflow: hidden;
+  box-shadow: 0 10px 0 0 #ff2045 inset;
+  border-radius: 10px;
+  height: 100%;
+  width: 100%;
+  cursor: pointer;
+  transition: all 0.5s ease-in-out;
+  margin: 0;
+}
+
+.item img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  object-fit: cover;
+  transition: all 0.5s ease-in-out;
+}
+
+.item:hover {
+  box-shadow: none;
+}
+
+.item:hover img {
+  transform: scale(1.1);
+}
+
+.item h2 {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 40%;
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.7);
+  opacity: 0;
+  transition: all 0.5s ease-in-out;
+}
+
+.item:hover h2 {
+  opacity: 1;
+}
